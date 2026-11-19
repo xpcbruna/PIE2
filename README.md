@@ -2,7 +2,7 @@ SindiCD
 Sistema desenvolvido para a disciplina Projeto Integrador Extensionista II (PIE II), em continuidade ao projeto do semestre anterior.
 
 Sobre o projeto
-O SindiCD é uma aplicação desenvolvida para apoiar o Sindipetro no gerenciamento de associados e carteirinhas digitais.
+O SindiCD é uma aplicação desenvolvida para apoiar o Sindipetro no gerenciamento de associados e carteirinhas digitais. O resultado esperado é um impacto positivo na redução do fluxo de atendimentos presenciais, além de uma comunicação mais efetiva para com os trabalhadores cadastrados
 
 Tecnologias
 Vite+
